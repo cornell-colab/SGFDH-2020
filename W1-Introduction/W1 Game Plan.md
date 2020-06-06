@@ -1,4 +1,4 @@
-# Day 1: Instructions
+# Day 1: Introduction to DH
 
 ### Before the Session
 
@@ -11,11 +11,11 @@ From the [list of projects](https://github.com/cornell-colab/SGFDH-2020/blob/mas
  
 #### A few questions you might want to consider:
 * Who is the intended audience? Scholarly researchers, students, general public, a combination?
-* Would this project be a useful tool for research, for teaching, for both? How might it be used to generate new research questions -- or answers?
+* Is the project primarily meant as a secondary source: the presentation of original research, much like an analog book or article? Or is it meant to be used as primary material for others’ research or creative work? Or is it some combination of these two types? How might it be used to generate new research questions -- or answers?
 * What scholarly decisions were made in the design of underlying dataset, the metadata, the visualization, and/or the user interface?
 * If the underlying data is still being compiled, how is it being compiled? Are the creators using crowdsourcing or public engagement methods for collecting data?
 * Are the project’s creator(s) writing (or have they already written) published works derived from their digital project?
-* Do the creators offer their data or code for reuse by others?
+* Do the creators offer their data or code for reuse by others?  
 * In what ways do find the project successful or unsuccessful?
 * What are your questions?
 
@@ -23,7 +23,7 @@ From the [list of projects](https://github.com/cornell-colab/SGFDH-2020/blob/mas
 
 ### After the Session: Reflection Post
 
-After we've met, post a new discussion in the [2019 Fellows Discussion Board](https://github.com/orgs/cornell-colab/teams/2019-fellows). Address any of these questions:  
+After we've met, post a short reflection on the [2020 Fellows Discussion Board](https://github.com/orgs/cornell-colab/teams/2020-fellows). Address any of these questions:  
 
 * Think about the data (or sources) that will underlie your own project. What issues do you foresee you may need to address as you assemble, analyze, and present your data?
 * What are some factors that are important to the success of a digital project that you want to replicate in your own project?  
