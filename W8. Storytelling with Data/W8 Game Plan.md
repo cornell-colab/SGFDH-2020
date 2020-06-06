@@ -25,10 +25,10 @@ From Usability.gov:
 
 ### During the Session
 
-### Part One: Storytelling (Michelle) 
+#### Part One: Storytelling (Michelle) 
 Michelle will facilitate a discussion on storytelling, and together we will explore elements and techniques used to tell a story.  
 
-### Part Two: StoryTelling with Data (Eliza)   
+#### Part Two: StoryTelling with Data (Eliza)   
 
 * What elements of storytelling can you see applying to communicating results with your data?
 * How do you tell stories with data? Try it!  
