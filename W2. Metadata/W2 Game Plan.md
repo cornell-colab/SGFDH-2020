@@ -1,6 +1,6 @@
 # SGFDH Day 2: Metadata
 
-### Prep Assignment 
+### Before the Session 
 
 Please bring a hat to the session today. (If you do not own a hat, consider borrowing one, or simply bringing any accessory that can be worn on your head.)  The hat might have an origin story that you wouldn't mind sharing in class, or can be completely utilitarian.  Increased diversity of headgear will make this exercise the most meaningful, so the more unusual, the better. 
 
@@ -10,18 +10,14 @@ Please bring a hat to the session today. (If you do not own a hat, consider borr
 
 Dooley, D.M., Griffiths, E.J., Gosal, G.S. et al. FoodOn: a harmonized food ontology to increase global food traceability, quality control and data integration. npj Sci Food 2, 23 (2018). https://doi.org/10.1038/s41538-018-0032-6  (See especially Figure 3)
 
+### During the Session
+
 #### Exercises - see Box folder for Day 2 - https://cornell.box.com/s/6alsley8x1n89goc9hobj5f4tvsp3kl3
  * Ontology of Jars Boxnote - https://cornell.box.com/s/qq66xx2rejec4snu8v17uzpqopziibuo
  * Ontology of Hats Boxnotes
    * Breakout 1 - https://cornell.box.com/s/13eda55bv5cmqdpe8hqhylm2lf9xlehw
    * Breakout 2 - https://cornell.box.com/s/twg86s2lc3we1mvu7lmx92xp7hq0ma4t
-
-### After the Session
-
-#### Optional Post-Session Reading
-[The TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) (Taxonomy of Digital Research Activities in the Humanities)  
-The TaDiRAH was an effort to provide an ontology for all the different research activities and objects that a digital humanist might work on or with. *Read the README and Introduction files for background information, and the "reading" folder for the actual taxonomy.* 
-
+   
 #### Resources
  * DublinCore - https://dublincore.org/
  * VRACore - https://www.loc.gov/standards/vracore/
@@ -29,6 +25,8 @@ The TaDiRAH was an effort to provide an ontology for all the different research 
  * [Cornell University Library -- Metadata Application Profiles](https://confluence.cornell.edu/display/mwgweb/CUL+Metadata+Application+Profiles)  
  * [Cornell University Library Digital Collections](https://digital.library.cornell.edu/collections)  
  * [Europeana Metadata Schema](https://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/EDM_Documentation//EDM_Definition_v5.2.8_102017.pdf)  
+
+### After the Session
 
 #### Daily Comment
 
