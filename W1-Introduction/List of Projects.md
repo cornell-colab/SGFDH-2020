@@ -16,9 +16,9 @@ Walter Scheidel & Elijah Meeks
 * [Mapping Prejudice: Racial Covenants and 20th Century Minneapolis](https://www.mappingprejudice.org/)  
 Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 
-* [Renewing Inequality: Urban Renewal, Family Displacement, and Race, 1955-1966](https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram)  
-Brent Cebul & Team  
-(This project is one of several rich projects included in University of Richmond DS Lab’s [American Panorama, an Atlas of United States History](https://dsl.richmond.edu/panorama/).)
+* [Anne Whitney Abroad, 1867-1868;The Continental Perspective](http://omeka.wellesley.edu/annewhitney/neatline/show/overview#records/386)
+Jacqueline Marie Musacchio
+An accompaniment to the article [Mapping the "White, Marmoorean Flock": Anne Whitney Abroad, 1867-1868](https://www.19thc-artworldwide.org/index.php/autumn14/musacchio-anne-whitney-abroad)  
 
 * [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) &  
 [Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
@@ -35,19 +35,19 @@ M. Cristina Pattuelli, Matt Miller, & Team
  
 ### Multimedia Exhibits and Digital Publishing
  
-* [Greene Street: A Long History of a Short Block](http://www.greenestreet.nyc/)  
-William Easterly, Laura Freschi, & Steven Pennings 
-
 * [The Chinese Deathscape: Grave Reform in Modern China](http://chinesedeathscape.org/)  
 Thomas Mullaney & Team
 
-* [Sound and Documentary in Cardiff and Miller's *Pandemonium*](http://scalar.usc.edu/works/pandemonium/index)  
-Cecilia Wichmann (The project is a digital companion to her master's thesis.)
+* [Claude McKays Early Poetry 1911-1922; A Digital Collection](https://scalar.lehigh.edu/mckay/index)
+Amardeep Singh & Students
 
-* [Performing Archive: Curits + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)  
-Jacqueline Wernimont & Team
- 
-### Databases Plus
+* [Shining Lights: Magic Lanterns & the Missionary Movement, 1839-1868](http://scalar.maryborgoton.com/shininglights/index)  
+Mary Borgo Ton
+
+* [Greene Street: A Long History of a Short Block](http://www.greenestreet.nyc/)  
+William Easterly, Laura Freschi, & Steven Pennings 
+
+### Building Databases
  
 * [Photogrammar](http://photogrammar.yale.edu/) (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)  
 Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
@@ -62,6 +62,9 @@ Ed Baptist & Team
 
 * [New York Slavery Records Index](https://nyslavery.commons.gc.cuny.edu/)  
 Ned Benton, Judy-Lynne Peters, & Team
+
+* [*La Gaceta de la Habana*](https://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta)  
+Paige Morgan & Team at University of Miami Libraries (Paige is now at U. Delaware.)
  
 ### Text 
  
@@ -75,8 +78,8 @@ The Bill Lane Center for the American West, Stanford University
 * [*Vogue* N-gram Search](http://bookworm.library.yale.edu/) & [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-* [Ticha: A Digital Text Explorer for Colonial Zapotec] (https://ticha.haverford.edu/en/)  
-Brook Danielle Lillehaugen & Team
+* [Intertext](https://github.com/YaleDHLab/intertext)  
+Peter Leonard & Team at Yale DH Lab
 
 ### Images
 
@@ -85,8 +88,6 @@ Laura Wrubel
 
 * [*Vogue* Covers in Colormetric Space](http://dh.library.yale.edu/projects/vogue/colormetricspace/) and [Averaging Covers in *Vogue*](http://dh.library.yale.edu/projects/vogue/coveraverages/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
-
-* SelfieCity and the SelfieExploratory (L. Manovich & Team at City Univeristy of New York Graduate Center)
 
 ## Projects by Summer Fellow Alums
 
@@ -102,19 +103,10 @@ Anna Waymack (Medieval Studies)
 * [Parthian Sources Online](http://parthiansources.com/)  
 Jake Nabel (Classics)
 
-* [Topic Modeling the Magazin zur Erfahrungsseelenkunde](http://davidwdunham.com/projects/1/)
-David Dunham (German Studies)
+* [Global Poetics](https://globalpoetics.org/)
+Ama Bemma Adwetewa-Badu (English)
 
-* [Historia Literararia del Registro de Sonido (A Literary History of the Phonograph)](http://scalar.usc.edu/works/literary-history-of-the-phonograph/index)  
-Sam Carter (Romance Studies)
 
-## Large Projects without Web-based Front Ends
-
-* [*La Gaceta de la Habana*](https://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta)  
-Paige Morgan & Team at University of Miami Libraries (Paige is now at U. Delaware.)
-
-* [Intertext](https://github.com/YaleDHLab/intertext)  
-Peter Leonard & Team at Yale DH Lab
 
 
 
