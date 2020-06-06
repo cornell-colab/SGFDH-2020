@@ -89,7 +89,7 @@ Laura Wrubel
 * [*Vogue* Covers in Colormetric Space](http://dh.library.yale.edu/projects/vogue/colormetricspace/) and [Averaging Covers in *Vogue*](http://dh.library.yale.edu/projects/vogue/coveraverages/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-## Projects by Summer Fellow Alums
+## Projects by Summer Fellow Alums (& Other Students)
 
 * [John Mandeville and the Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)  
 John Wyatt Greenlee (Medieval Studies)
@@ -106,6 +106,8 @@ Jake Nabel (Classics)
 * [Global Poetics](https://globalpoetics.org/)
 Ama Bemma Adwetewa-Badu (English)
 
+* [Brooklyn Anthems Atlas](https://cornellcolab.net/BrooklynAnthemsAtlas/neatline/fullscreen/brooklyn-anthems-atlas)  
+Avi Simon (undergrad)
 
 
 
