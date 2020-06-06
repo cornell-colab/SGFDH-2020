@@ -38,7 +38,7 @@ M. Cristina Pattuelli, Matt Miller, & Team
 * [The Chinese Deathscape: Grave Reform in Modern China](http://chinesedeathscape.org/)  
 Thomas Mullaney & Team
 
-* [Claude McKays Early Poetry 1911-1922; A Digital Collection](https://scalar.lehigh.edu/mckay/index)
+* [Claude McKays Early Poetry 1911-1922; A Digital Collection](https://scalar.lehigh.edu/mckay/index)  
 Amardeep Singh & Students
 
 * [Shining Lights: Magic Lanterns & the Missionary Movement, 1839-1868](http://scalar.maryborgoton.com/shininglights/index)  
