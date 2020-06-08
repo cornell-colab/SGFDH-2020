@@ -31,7 +31,7 @@ After we've met, post a short reflection on the [2020 Fellows Discussion Board](
 * What do you want to know how to do? 
 
 Also:  
-* Do you have any suggestions for how to do better at managing our synchronous online discussions?
+* If you were either an instructor or a student in a class last semester, did you learn anything about online learning? Do you have suggestions from that experience for creating positive online class experiences, or for avoiding negative ones?
 
 Consider the discussions posted by your fellow fellows, and comment on any that you'd like to. 
 
