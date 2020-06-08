@@ -30,5 +30,8 @@ After we've met, post a short reflection on the [2020 Fellows Discussion Board](
 * What do you want to understand better?  
 * What do you want to know how to do? 
 
+Also:  
+* Do you have any suggestions for how to do better at managing our synchronous online discussions?
+
 Consider the discussions posted by your fellow fellows, and comment on any that you'd like to. 
 
