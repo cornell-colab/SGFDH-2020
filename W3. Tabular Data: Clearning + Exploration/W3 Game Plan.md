@@ -5,7 +5,7 @@
 **Download and Install** [OpenRefine 3.3](https://openrefine.org/download.html)  
 Find detailed instructions for installation on this [OpenRefine Github page](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions). (Scroll down to the section with separate instructions for Windows and Macs.) 
 
-**Download the datasets linked above** and store them together in a folder that on your machine that you can find easily.
+**Download the datasets linked above** and store them together in a folder that on your machine that you can find easily. *(Note: I will add the datasets to download by Tuesday evening. It will take just a few minutes to download them, which can be done anytime up to and including the very start of class on Wednesday. Thanks for your patience!)
 
 **Sign up for an account** on [Datawrapper](https://datawrapper.de).
 
