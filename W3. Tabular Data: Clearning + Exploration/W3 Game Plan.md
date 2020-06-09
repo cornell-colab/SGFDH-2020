@@ -16,6 +16,6 @@ Find detailed instructions for installation on this [OpenRefine Github page](htt
 This article will be very relevant to both the Wednesday and Thursday sessions, and you don't need to read it all at once. Feel free to start it today and finish tomorrow, if your time is limited. 
 
 * **Read** Davis, H. (2019). "[A Dataset is a Worldview](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)," a blog post on *Towards Data Science*, a *Medium* vertical.  
-This short post is about datasets used in machine learning, which is why I originally had planned to assign it later in the summer. But the theme of a dataset reflecting a worldview is just as relevant to your creation of metadata schema as it is to considering the data used in machine learning, and it should be good food for thought now as well as later.
+This short post is about datasets used in machine learning, which is why I originally had planned to assign it later in the summer. But the idea that a dataset reflects a worldview is just as relevant to your creation of metadata schema as it is to considering the data used in machine learning, and it should be good food for thought now as well as later.
 
 ### After the Session
