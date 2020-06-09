@@ -3,7 +3,8 @@
 ### Before the Session
 
 * **Download and Install** [OpenRefine 3.3](https://openrefine.org/download.html)  
-Find detailed instructions for installation on this [OpenRefine Github page](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions). (Scroll down to the section with separate instructions for Windows and Macs.) 
+Find detailed instructions for installation on this [OpenRefine Github page](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions).  
+(Scroll down to the section with separate instructions for Windows and Macs.) Email Eliza with any problems or questions.
 
 * **Download the datasets linked above** and store them together in a folder that on your machine that you can find easily. *(Note: I will add the datasets to download by Tuesday evening. It will take just a few minutes to download them, which can be done anytime up to and including the very start of class on Wednesday. Thanks for your patience!)*
 
