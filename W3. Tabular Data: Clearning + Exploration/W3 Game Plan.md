@@ -44,6 +44,7 @@ For reference:
 
 ### After the Session
 * Play around a little more with Open refine. Try to address (or partially address) some of the research questions in the [boxnote](https://cornell.app.box.com/notes/677010855433). 
+
 Questions to consider in your reflection post:  
 * What new questions, insights, or confusions did you generate during or after today's session?
 * In what ways does your project dataset reflect a worldview of your own, someone else's, or multiple other people's?
