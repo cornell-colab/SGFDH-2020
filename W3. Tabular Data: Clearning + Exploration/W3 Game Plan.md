@@ -6,7 +6,10 @@
 Find detailed instructions for installation on this [OpenRefine Github page](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions).  
 (Scroll down to the section with separate instructions for Windows and Macs.) Email Eliza with any problems or questions.
 
-* **Download the datasets linked above** and store them together in a folder that on your machine that you can find easily. *(Note: I will add the datasets to download by Tuesday evening. It will take just a few minutes to download them, which can be done anytime up to and including the very start of class on Wednesday. Thanks for your patience!)*
+* **Download the dataset Eastern_State_Admission_Book.csv**  
+* Go to W3. Tabular Data: Cleaning + Exploration > Eastern_State_Admission_Book.csv, and click on the name of the dataset. A page will open, and you'll see a preview of the data table.  
+* Toward the upper-right, you'll see a button that says "Raw." RIGHT-click it and choose "Save Link As."  
+* Choose a place on your machine to store it, and download it. 
 
 * **Sign up for an account** on [Datawrapper](https://datawrapper.de).
 
@@ -18,4 +21,12 @@ This article will be very relevant to both the Wednesday and Thursday sessions, 
 * **Read** Davis, H. (2019). "[A Dataset is a Worldview](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)," a blog post on *Towards Data Science*, a *Medium* vertical.  
 This short post is about datasets used in machine learning, which is why I originally had planned to assign it later in the summer. But the idea that a dataset reflects a worldview is just as relevant to your creation of metadata schema as it is to considering the data used in machine learning, and it should be good food for thought now as well as later.
 
+### During the Session
+
+
+
 ### After the Session
+Questions to consider in your reflection post:  
+* What new questions, insights, or confusions did you generate during or after today's session?
+* In what ways does your project dataset reflect a worldview of your own, someone else's, or multiple other people's?
+* What are some ways you may want to clean your current project dataset? How confident are you feeling about devising a strategy to do so? What else do you want to learn?
