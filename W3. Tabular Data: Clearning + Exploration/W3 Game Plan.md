@@ -35,7 +35,7 @@ The dataset we'll use today is dervied from an admission book of prisoners in th
 [Eastern State Penitentiary Admission Book B](https://repository.upenn.edu/mead/21/)
 Both published by Scott Ziegler, Michelle Zioglas, and students. Accessed via the Magazine of Early American Datasets.
 
-[Boxnote of quesions about the data](https://cornell.app.box.com/notes/677010855433)
+[Boxnote of questions about the data](https://cornell.app.box.com/notes/677010855433)
 
 For reference:  
 [OpenRefine Documentation Resources](https://openrefine.org/documentation.html)  
@@ -43,6 +43,7 @@ For reference:
 [Intro to Pivot Tables using Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)  
 
 ### After the Session
+* Play around a little more with Open refine. Try to address (or partially address) some of the research questions in the [boxnote](https://cornell.app.box.com/notes/677010855433). 
 Questions to consider in your reflection post:  
 * What new questions, insights, or confusions did you generate during or after today's session?
 * In what ways does your project dataset reflect a worldview of your own, someone else's, or multiple other people's?
