@@ -28,9 +28,19 @@ Agwin, J. and Colleagues. (2016). (Machine Bias: risk assessments in criminal se
 Noble, S. (2018). (Algorithms of Opression: how search engines reinforce racism)[https://newcatalog.library.cornell.edu/catalog/10294895]. New York: NYU Press.
 
 
-### During the Session
+### During the Session  
 
+The dataset we'll use today is dervied from an admission book of prisoners in the Eastern State Penitentiary in the early 19th century in eastern Pennsylvania. I created it by combining these two separate datasets:  
+(Eastern State Penitentiary Admission Book A)[https://repository.upenn.edu/mead/22/]  
+(Eastern State Penitentiary Admission Book B)[https://repository.upenn.edu/mead/21/]
+Both published by Scott Ziegler, Michelle Zioglas, and students. Accessed via the Magazine of Early American Datasets.
 
+(Boxnote of quesions about the data)[https://cornell.app.box.com/notes/677010855433]  
+
+For reference:  
+(OpenRefine Documentation Resources)[https://openrefine.org/documentation.html]
+(GREL Documentation)[https://openrefine.org/documentation.html]  
+(Intro to Pivot Tables using Google Sheets)[https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/]
 
 ### After the Session
 Questions to consider in your reflection post:  
