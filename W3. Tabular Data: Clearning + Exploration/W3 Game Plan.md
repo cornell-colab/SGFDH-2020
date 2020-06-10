@@ -38,9 +38,9 @@ Both published by Scott Ziegler, Michelle Zioglas, and students. Accessed via th
 [Boxnote of quesions about the data](https://cornell.app.box.com/notes/677010855433)
 
 For reference:  
-[OpenRefine Documentation Resources](https://openrefine.org/documentation.html)
-[GREL Documentation](https://openrefine.org/documentation.html) 
-[Intro to Pivot Tables using Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)
+[OpenRefine Documentation Resources](https://openrefine.org/documentation.html)  
+[GREL Documentation](https://openrefine.org/documentation.html)   
+[Intro to Pivot Tables using Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)  
 
 ### After the Session
 Questions to consider in your reflection post:  
