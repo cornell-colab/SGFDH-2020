@@ -1,4 +1,4 @@
-# Tabular Data II: Visualizing Data (including Geographic Data)
+# Tabular Data II: Visualizing Data 
 
 ### Before the Session
 
