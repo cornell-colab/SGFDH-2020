@@ -18,7 +18,7 @@
 
 ### After the Session
 
-Questions to consider for your reflection:
+Some potential questions to consider for your reflection:
 * What did you learn? What do you want to learn more about?  
 * In his essay "[Doing Digital History](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)," Richard White writes: "Visualization is a means of doing research; it generates questions that might otherwise go unasked, it reveals historical relations that might otherwise go unnoticed, and it undermines, or substantiates, stories upon which we build our own versions of the past." The same argument could be made about other academic disciplines as well. Are there ways in which you might use visualization of your project data to do your research?  
 * How did the class structure work for you today? Do you have any feedback about working in small groups with novel tools? Or about other apsects of how the class time was structured?
