@@ -2,7 +2,7 @@
 
 #### Optional  
 
-**Browse** [RexEgg: The world's most tyrannosaurical regex tutorial](https://www.rexegg.com/regex-quickstart.html) and keep for future reference.  
+**Browse** [RexEgg: The world's most tyrannosaurical regex tutorial](https://www.rexegg.com/regex-quickstart.html). It may also be useful for future reference.  
 
 ### During the Session  
 
