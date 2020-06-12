@@ -2,8 +2,8 @@
 As humans, we have been telling each other stories for a long time, much longer than we have recorded history to know.  It is arguable that even as the forms of story differ from culture to culture, stories themselves in whatever form are fundamental to culture.  Recent neuroscience seems to indicate that our brains are constructed to respond preferentially to storytelling, so it makes sense that exploring the techniques of storytelling can assist us to communicate fully, to gain sensitivity to detect manipulative omissions, and to strike an ethical balance when communicating our own research and conclusions from data.  
  
 ### Before the Session
- * Briefly describe or point to (link is fine) a story with which you are familiar.  Works of fiction and non-fiction alike are welcome.  Describe a few elements or techniques involved in the telling of the story that you think make it a good one - the hope is that you will describe the way the story is constructed and/or told rather than the story itself.  Record your thoughts in a blog post before class (insert link here) 
- * View this short video - Kurt Vonnegut, The shapes of stories - https://www.youtube.com/watch?v=oP3c1h8v2ZQ
+* View this short video - Kurt Vonnegut, The shapes of stories - https://www.youtube.com/watch?v=oP3c1h8v2ZQ
+* Briefly describe or point to (link is fine) a story with which you are familiar.  Works of fiction and non-fiction alike are welcome.  Write a brief comment or two about what you like about this story.  Record these in a [blog post] (https://github.com/orgs/cornell-colab/teams/2020-fellows) before class (insert link here) 
  
  
 #### Optional Background Reading on Storytelling
@@ -28,10 +28,12 @@ From Usability.gov:
 #### Part One: Storytelling (Michelle) 
 Michelle will facilitate a discussion on storytelling, and together we will explore elements and techniques used to tell a story.  
 
-#### Part Two: StoryTelling with Data (Eliza)   
+#### Part Two: StoryTelling with Spatial Data (Eliza)   
+You will be working in teams to tell a story with a set of data.  The teams will be workin gon different stories, and at the end of the exercise, you will tell your stories to each other.  
 
+Thoughts to consider: 
 * What elements of storytelling can you see applying to communicating results with your data?
-* How do you tell stories with data? Try it!  
+* How do you tell stories with data? 
 * Ethics/balance: how much emotion is manipulation?  How much editing is misdirection or egregious omission?  How do we construct an ethical framework for the choices we make when telling stories with data?   
 
 
