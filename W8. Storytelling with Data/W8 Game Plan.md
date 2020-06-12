@@ -15,12 +15,14 @@ Breakout rooms will use these boxnotes (from the [Day 8 folder](https://cornell.
 * Group 2 - https://cornell.app.box.com/notes/678083131220
 
 #### Part Two: StoryTelling with Spatial Data (Eliza)   
-You will be working in teams to tell a story with a set of data.  The teams will be workin gon different stories, and at the end of the exercise, you will tell your stories to each other.  
+You will be working in teams and using a data set to "tell" a data story that will be assigned to you. (Each group will work on different story.) The data set includes spatial elements, so visualizing the data in spatial form allows for its exploration in particularly powerful ways.  When you have decided on your conclusions (however tentative) refine your visualization and prepare whatever other storytelling elements might be helpful to comvey them.  At the end of the exercise, the teams will tell their stories to each other, and use the spatial illustrations to visualize their main conclusion(s) about the data.  
 
 Thoughts to consider: 
 * What elements of storytelling can you see applying to communicating results with your data?
 * How do you tell stories with data? 
 * Ethics/balance: how much emotion is manipulation?  How much editing is misdirection or egregious omission?  How do we construct an ethical framework for the choices we make when telling stories with data?   
+
+### Optional resources
 
 #### Optional Background Reading on Storytelling
 * Zak, Paul J., Why Your Brain Loves Good Storytelling; Harvard Business Review; October 28, 2014; https://hbr.org/2014/10/why-your-brain-loves-good-storytelling Retrieved 2020-06-05
