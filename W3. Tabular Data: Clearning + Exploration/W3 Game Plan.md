@@ -1,6 +1,8 @@
 # Tabular Data I: Cleaning & Exploring
   
 ### OpenRefine Reference Material  
+* Download the [Followup Tutorial for OpenRefine](https://github.com/cornell-colab/SGFDH-2020/blob/master/W3.%20Tabular%20Data:%20Clearning%20%2B%20Exploration/OpenRefineFollowUpTutorial.pdf) to understand the steps I took to start cleaning the Eastern State Penitentiary Data. (Use the "Download" button to get the PDF, or read straight from the browser.)
+  
 * [Official OpenRefine Documentation and Resources](https://openrefine.org/documentation.html)  
 * [GREL Documentation](https://openrefine.org/documentation.html)  
 * [GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)  
