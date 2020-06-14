@@ -30,9 +30,9 @@ Noble, S. (2018). [Algorithms of Opression: how search engines reinforce racism]
 
 ### During the Session  
 
-The dataset we'll use today is dervied from an admission book of prisoners in the Eastern State Penitentiary in the early 19th century in eastern Pennsylvania. I created it by combining these two separate datasets:  
-[Eastern State Penitentiary Admission Book A](https://repository.upenn.edu/mead/22/) 
-[Eastern State Penitentiary Admission Book B](https://repository.upenn.edu/mead/21/)
+The dataset we'll use today is dervied from an admission book of prisoners in the Eastern State Penitentiary in the early 19th century in eastern Pennsylvania. I created it by combining these two separate datasets:    
+[Eastern State Penitentiary Admission Book A](https://repository.upenn.edu/mead/22/)  
+[Eastern State Penitentiary Admission Book B](https://repository.upenn.edu/mead/21/)  
 Both published by Scott Ziegler, Michelle Zioglas, and students. Accessed via the Magazine of Early American Datasets.
 
 [Boxnote of questions about the data](https://cornell.app.box.com/notes/677010855433)
