@@ -1,4 +1,4 @@
-# Storytelling
+# Storytelling (without, and) with data
 As humans, we have been telling each other stories for a long time, much longer than we have recorded history to know.  It is arguable that even as the forms of story differ from culture to culture, stories themselves in whatever form are fundamental to culture.  Recent neuroscience seems to indicate that our brains are constructed to respond preferentially to storytelling, so it makes sense that exploring the techniques of storytelling can assist us to communicate fully, to gain sensitivity to detect manipulative omissions, and to strike an ethical balance when communicating our own research and conclusions from data.  
  
 ### Before the Session
