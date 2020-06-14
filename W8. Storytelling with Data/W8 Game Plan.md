@@ -31,6 +31,7 @@ Thoughts to consider:
 * Garr Williams - Presentation Zen 
   * https://www.presentationzen.com/ 
   * https://www.youtube.com/watch?time_continue=5&v=YbV3b-l1sZs
+* [The Storytelling Brain: How Neuroscience Stories Help Bridge the Gap between Research and Society](https://www.jneurosci.org/content/39/42/8285); Susana Martinez-Conde, Robert G. Alexander, Deborah Blum, Noah Britton, Barbara K. Lipska, Gregory J. Quirk, Jamy Ian Swiss, Roel M. Willems, Stephen L. Macknik;  Journal of Neuroscience 16 October 2019, 39 (42) 8285-8290; DOI: 10.1523/JNEUROSCI.1180-19.2019
 * Chip Heath and Dan Heath, Made to Stick: Why Some Ideas Survive and Others Die - https://newcatalog.library.cornell.edu/catalog/9756439; Chapter 6: Stories
 
 #### Optional Background readings on usability design:  
