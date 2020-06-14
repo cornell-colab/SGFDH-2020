@@ -15,14 +15,14 @@ A thorough introduction and reference geared toward humanists; the example data 
 A detailed peer-reviewed tutorial published by *The Programming Historian*  
   
 ### Pivot Tables Reference Material
-* [How to get data in the right format with pivot tables](https://blog.datawrapper.de/pivottables/) (A breezy conceptual introduction)  
+* [How to get data in the right format with pivot tables](https://blog.datawrapper.de/pivottables/) (A breezy conceptual introduction. Start here.)  
 * [How to make Pivot Tables with Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)   
 * [How to make Pivot Tables with LibreOffice Calc](https://elearn.ellak.gr/mod/page/view.php?id=3015)  
 * [How to make Pivot Tables with MicrosoftOffice Excel](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576?ui=en-us&rs=en-us&ad=us)  
   
 Pivot tables summarize your dataset. Like OpenRefine, they are a tool for examining your data and getting to know it better, *as well as* to prepare your data for analysis through visualization or other methods. 
 
-They’re especially useful for summarizing categorical data. Think of the columns in your metadata or data that contain text . There’s a good chance these are categorical data (e.g. *property, violence, sober, drinks heavily*). They represent categories that individual items in your data fall into.   
+They’re especially useful for summarizing categorical data. Think of the columns in your metadata or data that contain text . There’s a good chance these are categorical data (e.g. *property, violence, sober, drinks heavily*). These words represent categories that your individual data items fall into.   
 
 You can make pivot tables with any almost any spreadsheet software, including [LibreOffice Calc](https://www.libreoffice.org/) (free and open source), Google Sheets (free and proprietary), or MicrosoftOffice Excel (fee-based and proprietary).
 
