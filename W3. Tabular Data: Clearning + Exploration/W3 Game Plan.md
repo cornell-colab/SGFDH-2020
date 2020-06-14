@@ -1,5 +1,26 @@
 # Tabular Data I: Cleaning & Exploring
-
+  
+### OpenRefine Reference Material  
+* [Official OpenRefine Documentation and Resources](https://openrefine.org/documentation.html)  
+* [GREL Documentation](https://openrefine.org/documentation.html)  
+* [GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)  
+These "recipes" show you how to use GREL, sometimes combined with regular expressions, to accomplish common tasks. Can be very helpful!  
+* [Clustering in Depth](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth)  
+In case you want to understand the differences between various clustering methods.  
+  
+### OpenRefine Tutorials  
+* [Getting started with OpenRefine](http://thomaspadilla.org/dataprep/) by Thomas Padilla  
+A thorough introduction and reference geared toward humanists; the example data set is a list of books.  
+* [Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) by Seth van Hooland, Ruben Verborgh and Max De Wilde  
+A detailed peer-reviewed tutorial published by *The Programming Historian*  
+  
+### Pivot Tables Reference Material
+* [How to get data in the right format with pivot tables](https://blog.datawrapper.de/pivottables/)  
+* [Intro to Pivot Tables using Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)   
+* [Use of LibreOffice in an office automation environment: Pivot tables](https://elearn.ellak.gr/mod/page/view.php?id=3015)  
+* [Create a pivot table to analyze worksheet data (in Excel)](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576?ui=en-us&rs=en-us&ad=us)  
+  
+  
 ### Before the Session
 
 * **Download and Install** [OpenRefine 3.3](https://openrefine.org/download.html)  
@@ -46,22 +67,3 @@ Questions to consider in your reflection post:
 * What new questions, insights, or confusions did you generate during or after today's session?
 * In what ways does your project dataset reflect a worldview of your own, someone else's, or multiple other people's?
 * What are some ways you may want to clean your current project dataset? How confident are you feeling about devising a strategy to do so? What else do you want to learn?  
-  
-### OpenRefine Reference Material  
-* [Official OpenRefine Documentation and Resources](https://openrefine.org/documentation.html)  
-* [GREL Documentation](https://openrefine.org/documentation.html)  
-* [GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)  
-These "recipes" show you how to use GREL, sometimes combined with regular expressions, to accomplish common tasks. Can be very helpful!  
-* [Clustering in Depth](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth)  
-In case you want to understand the differences between various clustering methods.  
-  
-### OpenRefine Tutorials  
-* [Getting started with OpenRefine](http://thomaspadilla.org/dataprep/) by Thomas Padilla  
-A thorough introduction and reference geared toward humanists; the example data set is a list of books.  
-* [Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) by Seth van Hooland, Ruben Verborgh and Max De Wilde  
-A detailed peer-reviewed tutorial published by *The Programming Historian*  
-  
-### Reference Material on Pivot Tables
-[Intro to Pivot Tables using Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)    
-  
-
