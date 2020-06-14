@@ -25,6 +25,8 @@ This short post is about datasets used in machine learning, which is why I origi
 
 Agwin, J. and Colleagues. (2016). [Machine Bias: risk assessments in criminal sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). *ProPublica*.  
 
+Eubanks, V. (2018). [Automating Inequality: how high-tech tools profile, police, and punish the poor](https://newcatalog.library.cornell.edu/catalog/10228118). New York: St. Martin's Press.  
+  
 Noble, S. (2018). [Algorithms of Opression: how search engines reinforce racism](https://newcatalog.library.cornell.edu/catalog/10294895). New York: NYU Press.
 
 
@@ -37,15 +39,28 @@ Both published by Scott Ziegler, Michelle Zioglas, and students. Accessed via th
 
 [Boxnote of questions about the data](https://cornell.app.box.com/notes/677010855433)
 
-For reference:  
-[OpenRefine Documentation Resources](https://openrefine.org/documentation.html)  
-[GREL Documentation](https://openrefine.org/documentation.html)   
-[Intro to Pivot Tables using Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)  
-
-### After the Session
+### After the Session  
 * Play around a little more with Open refine. Try to address (or partially address) some of the research questions in the [boxnote](https://cornell.app.box.com/notes/677010855433), or use it with your own data. 
 
 Questions to consider in your reflection post:  
 * What new questions, insights, or confusions did you generate during or after today's session?
 * In what ways does your project dataset reflect a worldview of your own, someone else's, or multiple other people's?
-* What are some ways you may want to clean your current project dataset? How confident are you feeling about devising a strategy to do so? What else do you want to learn?
+* What are some ways you may want to clean your current project dataset? How confident are you feeling about devising a strategy to do so? What else do you want to learn?  
+  
+#### Tutorials and Reference Material on OpenRefine  
+[Official OpenRefine Documentation and Resources](https://openrefine.org/documentation.html)  
+[GREL Documentation](https://openrefine.org/documentation.html)  
+[GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)  
+These "recipes" show you how to use GREL, sometimes combined with regular expressions, to accomplish common tasks. Can be very helpful!  
+[Clustering in Depth](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth)  
+In case you want to understand the differences between various clustering methods.
+
+[Getting started with OpenRefine](http://thomaspadilla.org/dataprep/) by Thomas Padilla  
+A thorough introduction and reference geared toward humanists; the example data set is a list of books.  
+[Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) by Seth van Hooland, Ruben Verborgh and Max De Wilde  
+A detailed peer-reviewed tutorial published by *The Programming Historian*  
+  
+#### Reference Material on Pivot Tables
+[Intro to Pivot Tables using Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)    
+  
+
