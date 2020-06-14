@@ -15,10 +15,10 @@ A thorough introduction and reference geared toward humanists; the example data 
 A detailed peer-reviewed tutorial published by *The Programming Historian*  
   
 ### Pivot Tables Reference Material
-* [How to get data in the right format with pivot tables](https://blog.datawrapper.de/pivottables/)  
-* [Intro to Pivot Tables using Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)   
-* [Use of LibreOffice in an office automation environment: Pivot tables](https://elearn.ellak.gr/mod/page/view.php?id=3015)  
-* [Create a pivot table to analyze worksheet data (in Excel)](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576?ui=en-us&rs=en-us&ad=us)  
+* [How to get data in the right format with pivot tables](https://blog.datawrapper.de/pivottables/) (A breezy conceptual introduction)  
+* [How to make Pivot Tables with Google Sheets](https://www.benlcollins.com/spreadsheets/pivot-tables-google-sheets/)   
+* [How to make Pivot Tables with LibreOffice Calc](https://elearn.ellak.gr/mod/page/view.php?id=3015)  
+* [How to make Pivot Tables with MicrosoftOffice Excel](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576?ui=en-us&rs=en-us&ad=us)  
   
   
 ### Before the Session
