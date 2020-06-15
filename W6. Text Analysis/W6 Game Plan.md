@@ -1,7 +1,7 @@
 
 # Computational Text Analysis    
   
-Session led by English Ph.D. Candidate Malcolm Bare (mtb236).  
+Session led by English Ph.D. Candidate Malcolm Bare (mtb236), who is also a digital humanities intern in the library.  
 Malcolm is available for consultations on text analysis, Python, R, and related topics.  
 
 ### Before the Session  
