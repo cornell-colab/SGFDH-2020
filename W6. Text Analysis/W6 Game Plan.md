@@ -1,5 +1,8 @@
 
 # Text Analysis & Machine Learning  
+  
+Session led by English Ph.D. Candidate Malcolm Bare (mtb236).  
+Malcolm is available for consultations on text analysis, Python, R, and related topics.  
 
 ### Before the Session  
 
@@ -14,4 +17,9 @@ Look for your operating system under the 'Downloads' heading.
 
 
 ### After the Session
+  
+Potential questions to consider for your reflection post:  
+* What concepts in today's session were new or interesting to you? What are you curious to learn more about? What remaining questions do you have?  
+* Do you anticipate using any text anlysis methods on your data? Which approaches might you take? What questions might you ask of your data?   
+  
 
