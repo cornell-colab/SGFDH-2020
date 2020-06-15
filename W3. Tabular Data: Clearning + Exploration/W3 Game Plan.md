@@ -26,7 +26,7 @@ Pivot tables summarize your dataset. Like OpenRefine, they are a tool for examin
 
 They’re especially useful for summarizing categorical data. Think of the columns in your metadata or data that contain text . There’s a good chance these are categorical data (e.g. *property, violence, sober, drinks heavily*). These words represent categories that your individual data items fall into.   
 
-You can make pivot tables with any almost any spreadsheet software, including [LibreOffice Calc](https://www.libreoffice.org/) (free and open source), Google Sheets (free and proprietary), or MicrosoftOffice Excel (fee-based and proprietary).
+You can make pivot tables with any almost any spreadsheet software, including [LibreOffice Calc](https://www.libreoffice.org/) (free and open source), Google Sheets (free and proprietary), or MicrosoftOffice Excel (fee-based and proprietary; site licensed to the Cornell community).
 
 As I mentioned in the OpenRefine guide, “open source” means that the code is open to inspection and modification by anyone. “Free” means users don’t pay fees to use it.( * ) If you don’t already have a firm favorite among these software options, I’d recommend making your first pivot table with **Sheets**, whose user interface I find the simplest. It's easy to jump in and start playing. But above, you can find step-by-step instructions for making pivot tables with any of these software packages. 
 
