@@ -1,5 +1,5 @@
 
-# Text Analysis & Machine Learning  
+# Computational Text Analysis    
   
 Session led by English Ph.D. Candidate Malcolm Bare (mtb236).  
 Malcolm is available for consultations on text analysis, Python, R, and related topics.  
