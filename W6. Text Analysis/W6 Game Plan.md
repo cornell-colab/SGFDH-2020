@@ -20,6 +20,7 @@ Look for your operating system under the 'Downloads' heading.
   
 Potential questions to consider for your reflection post:  
 * What concepts in today's session were new or interesting to you? What are you curious to learn more about? What remaining questions do you have?  
+* The exercise today with AntConc gives you some basic experience with basic strategies for analyzing text data.  What are some affordances of these strategies? What areas of caution would be well advised to consider when using them? Are there points where these strategies becaome completely problematic or misleading?
 * Do you anticipate using any text anlysis methods on your data? Which approaches might you take? What questions might you ask of your data?   
   
 
