@@ -6,7 +6,7 @@
 **Download and Install** the free software (AntConc)[http://www.laurenceanthony.net/software/antconc/]
 Look for your operating system under the 'Downloads' heading.
 
-**Download** the datasets linked above.
+**Download** the dataset linked here [https://drive.google.com/drive/folders/1Ez7OAh1opvfHogLPWWCu1KBj8L2Md-Tx?usp=sharing].
 
 **Read** Underwood, T. (2015). (Seven ways humanists are using computers to understand text)[https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/], a blog post on *The Stone and the Shell*.
 
