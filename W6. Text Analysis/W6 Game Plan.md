@@ -13,7 +13,7 @@ Look for your operating system under the 'Downloads' heading.
 
 **Read** Underwood, T. (2015). [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/), a blog post on *The Stone and the Shell*.
 
-**Read** Ott, M., et.al. (2011). [Finding Deceptive Opinion Spam by Any Stretch of the Imagination](https://dl.acm.org/doi/pdf/10.5555/2002472.2002512?download=true), *Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics, pages 309–319,Portland, Oregon.*
+**Optionally Read** Ott, M., et.al. (2011). [Finding Deceptive Opinion Spam by Any Stretch of the Imagination](https://dl.acm.org/doi/pdf/10.5555/2002472.2002512?download=true), *Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics, pages 309–319,Portland, Oregon.*
 
 
 ### After the Session
