@@ -19,10 +19,9 @@ Our session today was heavily influenced by:
 Duering, M. (2015). [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources). *Programming Historian.*  
 
 ##### Tools for Network Analysis  
-[Palladio](https://hdlab.stanford.edu/palladio/). Browser-based.
+[Palladio](https://hdlab.stanford.edu/palladio/). Browser-based.  
 [Gephi](https://gephi.org/). Desktop softare.  
-Python. A common Python package for performing network analysis with Python is called [NetworkX](https://networkx.github.io/). Here is a tutorial on working with NetworkX:  
-[Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python), *Programming Historian.*   
+Python. A common Python package for performing network analysis with Python is called [NetworkX](https://networkx.github.io/). Here is a tutorial on working with NetworkX: [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python), *Programming Historian.*   
 
 
 ### After the Session  
