@@ -21,7 +21,7 @@ Duering, M. (2015). [From Hermeneutics to Data to Networks: Data Extraction and 
 ##### Tools for Network Analysis  
 [Palladio](https://hdlab.stanford.edu/palladio/). Browser-based.  
 [Gephi](https://gephi.org/). Desktop softare.  
-Python. A common Python package for performing network analysis with Python is called [NetworkX](https://networkx.github.io/). Here is a tutorial on working with NetworkX: [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python), *Programming Historian.*   
+Python. A common Python package for performing network analysis with Python is called [NetworkX](https://networkx.github.io/). Here is a *Programming Historian* tutorial on working with NetworkX: [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)   
 
 
 ### After the Session  
