@@ -5,8 +5,8 @@ The second half will be led by Eliza and Michelle.
   
 ### Network Analysis Resources  
   
-Weingart, S. *Networks Demystified: 1-9* A series of blog posts.  
-These posts are great because they are written specifically for humanists. Much of the network anaylysis literature is aimed at physicists, sociologists, and researchers with a very quantitative approach generally. If you're interested in using network analysis in your own work and need some theoretical grounding, I highly recommend starting here.  
+Weingart, S. (2011-2015). *Networks Demystified: 1-9* A series of blog posts.  
+These posts are a great place to start because they are written specifically for humanists. Much of the network anaylysis literature is aimed at physicists, quantitative sociologists, and other researchers with (a) a strong mathematical background, and, most importantly, (b) datasets that are very different from most humanists' datasets (i.e. with less uncertainty and less subjectivity). If you're interested in using network analysis in your own work and are looking for some theoretical grounding, I highly recommend starting here:  
 [Networks Demystified 1: An Introduction](https://scottbot.net/lets-talk-about-networks/)  
 [Networks Demystified 2: Degree](https://scottbot.net/networks-demystified-2-degree/)  
 [Networks Demystified 3: The Power Law Rant](https://scottbot.net/networks-demystified-3-the-power-law-rant/)  
@@ -27,4 +27,4 @@ Python. A common Python package for performing network analysis with Python is c
 ### After the Session  
 Read [Networks Demystified 1: An Introduction](https://scottbot.net/lets-talk-about-networks/), and if you think you will use network analysis in your project, [Networks Demystified 2: Degree](https://scottbot.net/networks-demystified-2-degree/). (Read more posts in the series is you have time and would like to!) Then write a reflection post. You might consider:  
 *   
-* In your data, what are the nodes, and what are the edges, of the networks you are interested in? how might you tease apart questions of directionality, 
+* In your own data, what are the nodes, and what are the edges, of the networks you are interested in? Are your networks unimodal or bimodal? Are the edges directed or undirected? If you were to measure centrality or degree in your network(s), what meaning might "centrality" have given the specific context and structure of your data? 
