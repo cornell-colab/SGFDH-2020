@@ -25,6 +25,11 @@ Python. A common Python package for performing network analysis with Python is c
 
 
 ### After the Session  
-Read [Networks Demystified 1: An Introduction](https://scottbot.net/lets-talk-about-networks/), and if you think you will use network analysis in your project, also read [Networks Demystified 2: Degree](https://scottbot.net/networks-demystified-2-degree/). (Read more posts in the series is you have time and would like to!) Then write a reflection post. You might consider:  
-*   
-* In your own data, what are the nodes, and what are the edges, of the networks you are interested in? Are your networks unimodal or bimodal? Are the edges directed or undirected? If you were to measure centrality or degree in your network(s), what meaning might "centrality" have given the specific context and structure of your data? 
+Read [Networks Demystified 1: An Introduction](https://scottbot.net/lets-talk-about-networks/), and if you think you will use network analysis in your project, also read [Networks Demystified 2: Degree](https://scottbot.net/networks-demystified-2-degree/). (Read more posts in the series is you have time and would like to!)  
+  
+*Optional*: Read and finish working through the tutorial that we started in class: [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources).
+
+Then write a reflection post. You might consider:  
+* How might network analysis be useful in humanities research? Might it enable analysis that close reading alone can't?  
+* In your own data, what are the nodes, and what are the edges, of the networks you are interested in? Are your networks unimodal or bimodal? Are the edges directed or undirected? If you were to measure centrality or degree in your network(s), what meaning might "centrality" have given the specific context and structure of your data?  
+* What is confusing to you? What questions do you have?
