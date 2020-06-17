@@ -5,21 +5,33 @@ As humans, we have been telling each other stories for a long time, much longer 
 * View this short video - Kurt Vonnegut, The shapes of stories - https://www.youtube.com/watch?v=oP3c1h8v2ZQ
 * Spend a little time thinking about stories with which you are familiar, and that have struck you as particularly effective.  Works of fiction and non-fiction alike are welcome.  What makes these stories effective, memorable, and/or enjoyable? Come to class prepared to discuss your thoughts.
 
-### During the Session
-
-#### Part One: Storytelling (Michelle) 
+### Part One: Storytelling (Michelle) 
 We will have a discussion and exercise around storytelling, and together we will explore elements and techniques used to tell a story. A few seed questions: 
 * Why do we tell stories? Why do we use the form of "story" to relay information?
 * Although undoubtedly couched in humor, the short Vonnegut video might offer us some helpful observations. What types of observations about storytelling could be useful? 
 
-Breakout rooms will use these boxnotes (from the [Day 8 folder](https://cornell.app.box.com/folder/114727730293))
+Breakout rooms will use these boxnotes (from the [Day 8 folder](https://cornell.app.box.com/folder/114727730293)
 * Group 1 - https://cornell.app.box.com/notes/678085728718
 * Group 2 - https://cornell.app.box.com/notes/678083131220
 
-#### Part Two: Spatial Data (Eliza)   
+### Part Two: Spatial Data (Eliza)   
 
 [OpenCage Geocoder](https://opencagedata.com/). 2500 free geocodes per day  
-[Tutorial on Geocoding with Opencage within Google Sheets](https://opencagedata.com/tutorials/geocode-in-googledocs)
+[Tutorial on Geocoding with Opencage within Google Sheets](https://opencagedata.com/tutorials/geocode-in-googledocs)  
+  
+[Open Street Map](https://www.openstreetmap.org). Free and open source spatial data source for the whole world. "The Wikipedia of Maps."  
+
+  
+#### Tools for Mapping  
+
+[Datawrapper](https://datawrapper.de). Proprietary web-based platform with robust free plan for individuals. Excellent for locator maps (to illustrate locations) and some data maps.  
+[Carto](http://cornell.carto.com). Proprietary web-based platform with decnet free plan for Cornell affiliates. Great for geospatial data visualizations, especially when you want your users to be able to interact with them online. For examples, see . Beware that the capabilities of the free Cornell plans are continually changing (usually shrinking). 
+[Neatline](https://neatline.org/)Free and open source web-based platform. Must be self-hosted. Locations can be linked to digital objects, like photos, images, and texts. Allows for annotations of maps, and time-based visibility.
+[QGIS](http://www.qgis.org) Free and open source desktop software. Good for managing large amounts of complex spatial, and performing computational-heavy analysis. Many different utilities, inlcuding one for downloading the OpenStreetMap data of your choice. 
+[Mapwarper](http://www.mapwarper.net) Free and open source web-based tool. Georeferences images of historic maps so they can be layered with other geospatial data in your preferred platform.
+
+[Leaflet]()A Javascript-based library for making interactive web maps, inlcuding data maps.  
+[D3]() A Javascript-based library for making sophisticated data visualizations, including maps.
 
 ### Optional resources
 
