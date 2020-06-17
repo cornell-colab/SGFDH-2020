@@ -12,7 +12,7 @@ We will have a discussion and exercise around storytelling, and together we will
 * Why do we tell stories? Why do we use the form of "story" to relay information?
 * Although undoubtedly couched in humor, the short Vonnegut video might offer us some helpful observations. What types of observations about storytelling could be useful? 
 
-Breakout rooms will use these boxnotes (from the [Day 8 folder](https://cornell.app.box.com/folder/114727730293)
+Breakout rooms will use these boxnotes (from the [Day 8 folder](https://cornell.app.box.com/folder/114727730293))
 * Group 1 - https://cornell.app.box.com/notes/678085728718
 * Group 2 - https://cornell.app.box.com/notes/678083131220
 
