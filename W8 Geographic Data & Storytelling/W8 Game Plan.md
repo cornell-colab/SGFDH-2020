@@ -55,4 +55,8 @@ From Usability.gov:
 [Beware the Aesthetic Usability Effect]( https://www.nngroup.com/articles/aesthetic-usability-effect/)  
 [Guide to Important UI/UX Vocabulary](https://djangostars.com/blog/ui-ux-terms-everyone-should-know/) 
 
+### After the Session  
+
+* [Sign up for a Individual Meeting time on Monday June 22](https://cornell.app.box.com/folder/114646716261)  
+
 
