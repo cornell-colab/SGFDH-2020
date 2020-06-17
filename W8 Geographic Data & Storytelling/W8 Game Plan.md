@@ -58,5 +58,6 @@ From Usability.gov:
 ### After the Session  
 
 * [Sign up for a Individual Meeting time on Monday June 22](https://cornell.app.box.com/folder/114646716261)  
+* In your reflection post, please consider geographic aspects of your own data. What characteristics does it have? How might you want to visualize it? What relationships or patterns do you plan to look for?
 
 
