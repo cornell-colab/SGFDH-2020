@@ -1,4 +1,4 @@
-# Storytelling (without, and) with data
+# Storytelling (without, and) with data + Geographic Data
 As humans, we have been telling each other stories for a long time, much longer than we have recorded history to know.  It is arguable that even as the forms of story differ from culture to culture, stories themselves in whatever form are fundamental to culture.  Recent neuroscience seems to indicate that our brains are constructed to respond preferentially to storytelling, so it makes sense that exploring the techniques of storytelling can assist us to communicate fully, to gain sensitivity to detect manipulative omissions, and to strike an ethical balance when communicating our own research and conclusions from data.  
  
 ### Before the Session
@@ -16,13 +16,10 @@ Breakout rooms will use these boxnotes (from the [Day 8 folder](https://cornell.
 * Group 1 - https://cornell.app.box.com/notes/678085728718
 * Group 2 - https://cornell.app.box.com/notes/678083131220
 
-#### Part Two: StoryTelling with Spatial Data (Eliza)   
-You will be working in teams and using a data set to "tell" a data story that will be assigned to you. (Each group will work on different story.) The data set includes spatial elements, so visualizing the data in spatial form allows for its exploration in particularly powerful ways.  When you have decided on your conclusions (however tentative) refine your visualization and prepare whatever other storytelling elements might be helpful to comvey them.  At the end of the exercise, the teams will tell their stories to each other, and use the spatial illustrations to visualize their main conclusion(s) about the data.  
+#### Part Two: Spatial Data (Eliza)   
 
-Thoughts to consider: 
-* What elements of storytelling can you see applying to communicating results with your data?
-* How do you tell stories with data? 
-* Ethics/balance: how much emotion is manipulation?  How much editing is misdirection or egregious omission?  How do we construct an ethical framework for the choices we make when telling stories with data?   
+[OpenCage Geocoder](https://opencagedata.com/). 2500 free geocodes per day  
+[Tutorial on Geocoding with Opencage within Google Sheets](https://opencagedata.com/tutorials/geocode-in-googledocs)
 
 ### Optional resources
 
