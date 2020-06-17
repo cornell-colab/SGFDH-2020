@@ -15,23 +15,25 @@ Breakout rooms will use these boxnotes (from the [Day 8 folder](https://cornell.
 * Group 2 - https://cornell.app.box.com/notes/678083131220
 
 ### Part Two: Spatial Data (Eliza)   
-
-[OpenCage Geocoder](https://opencagedata.com/). 2500 free geocodes per day  
-[Tutorial on Geocoding with Opencage within Google Sheets](https://opencagedata.com/tutorials/geocode-in-googledocs)  
   
-[Open Street Map](https://www.openstreetmap.org). Free and open source spatial data source for the whole world. "The Wikipedia of Maps."  
+#### Geospatial Data Resources  
+
+* [OpenCage Geocoder](https://opencagedata.com/). 2500 free geocodes per day  
+* [Tutorial on Geocoding with Opencage within Google Sheets](https://opencagedata.com/tutorials/geocode-in-googledocs)  
+  
+* [Open Street Map](https://www.openstreetmap.org). Free and open source spatial data source for the whole world. "The Wikipedia of Maps."  
 
   
 #### Tools for Mapping  
 
-[Datawrapper](https://datawrapper.de). Proprietary web-based platform with robust free plan for individuals. Excellent for locator maps (to illustrate locations) and some data maps.  
-[Carto](http://cornell.carto.com). Proprietary web-based platform with decnet free plan for Cornell affiliates. Great for geospatial data visualizations, especially when you want your users to be able to interact with them online. For examples, see . Beware that the capabilities of the free Cornell plans are continually changing (usually shrinking). 
-[Neatline](https://neatline.org/)Free and open source web-based platform. Must be self-hosted. Locations can be linked to digital objects, like photos, images, and texts. Allows for annotations of maps, and time-based visibility.
-[QGIS](http://www.qgis.org) Free and open source desktop software. Good for managing large amounts of complex spatial, and performing computational-heavy analysis. Many different utilities, inlcuding one for downloading the OpenStreetMap data of your choice. 
-[Mapwarper](http://www.mapwarper.net) Free and open source web-based tool. Georeferences images of historic maps so they can be layered with other geospatial data in your preferred platform.
+* [Datawrapper](https://datawrapper.de). Proprietary web-based platform with robust free plan for individuals. Excellent for locator maps (to illustrate locations) and some data maps.  
+* [Carto](http://cornell.carto.com). Proprietary web-based platform with decnet free plan for Cornell affiliates. Great for geospatial data visualizations, especially when you want your users to be able to interact with them online. For examples, see . Beware that the capabilities of the free Cornell plans are continually changing (usually shrinking).  
+* [Neatline](https://neatline.org/)Free and open source web-based platform. Must be self-hosted. Locations can be linked to digital objects, like photos, images, and texts. Allows for annotations of maps, and time-based visibility.  
+* [QGIS](http://www.qgis.org) Free and open source desktop software. Good for managing large amounts of complex spatial, and performing computational-heavy analysis. Many different utilities, inlcuding one for downloading the OpenStreetMap data of your choice.  
+* [Mapwarper](http://www.mapwarper.net) Free and open source web-based tool. Georeferences images of historic maps so they can be layered with other geospatial data in your preferred platform.
 
-[Leaflet]()A Javascript-based library for making interactive web maps, inlcuding data maps.  
-[D3]() A Javascript-based library for making sophisticated data visualizations, including maps.
+* [Leaflet]()A Javascript-based library for making interactive web maps, inlcuding data maps.  
+* [D3]() A Javascript-based library for making sophisticated data visualizations, including maps.
 
 ### Optional resources
 
