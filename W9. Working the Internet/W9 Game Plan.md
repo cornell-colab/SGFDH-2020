@@ -1,1 +1,2 @@
-
+### "The Stack" 
+Have you ever wondered how systems and internet services are organized?  Whether you interact with a local machine or over the internet your communications flow throguh layers of dependencies referred to in IT as "the stack".  Why should you care?  It's true that you can use the internet without this nunced understanding, but online work can benefit from deeper knowledge, especially when you are working throguh issues where things have gon awry. Michelle will review the general structure of these architectures and allow from questions throughout.  
