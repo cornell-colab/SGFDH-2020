@@ -7,7 +7,7 @@ Have you ever wondered how systems and internet services are organized?  Whether
   
 ## Hosting Your Web Site: Static vs. Dynamic  
 
-The components of a basic website are HTML, CSS, & JavaScript (JS). All of these languages operate on the *client side.* Languages  A static site is one that uses just these three languages, and is rendered the same each time. A more complicated web site, called a dynamic web site, relies on a content management system (see below), and renders each web page as it is called. 
+The components of a basic website are HTML, CSS, & JavaScript (JS). All of these languages operate on the *client side.* A static site is one that uses just these three languages, and is rendered the same each time. A more complicated web site, called a dynamic web site, relies on a content management system (see below), and renders each web page as it is called up by the "client" (your own personal computer). 
 
 ### Static Web Sites 
 
@@ -18,18 +18,23 @@ If you need a static web site that is secure and easy to maintain, the software 
 GitHub Pages is a no-fee host. It's free to use. However, it's good to know that GitHub is a commercial company owned by Microsoft, and can change its terms of service at any time. The good news is that Jekyll makes it easy to export and transport your site to a different host if you want to, for any reason. 
 
 Examples of web sites built with Jekyll (some hosted on GitHub Pages):  
+* [New York Data Carpentries Library Consortium](https://nydclc.github.io/)  
+* [Digital Space and Place](https://cblevins.github.io/sp18-space-place/) (a course site by Cameron Blevins)  
 * [UN World Statistics Day](https://worldstatisticsday.org/)  
 * [Leaflet for R](https://rstudio.github.io/leaflet/)  
 * [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/)  
 
-Anytime you see the domain github.io, that page is built with Jekyll and hosted on GitHub Pages.
+Anytime you see the domain github.io, that page is built with Jekyll and *hosted* on GitHub Pages.
 
 ### Dynamic Web Sites  
 
 If your web site needs a content management system, or a relational database, or other *client-side* programming, you will need a place to host it. You have two basic options:
 
 1. Lease your own space. Have full access to the back end. Install whatever you want there.  
-  * In most cases, I recommend [Reclaim Hosting](https://reclaimhosting.com/shared-hosting/). It's designed for scholars, has fantastic technical support, and makes it really easy to install your own instance(s) of Wordpress, Omeka, Scalar, mySQL, and many more platforms. You can also start from scratch and host any HTML, CSS, and/or JS that you write (or borrow/adapt) here. Security and back ups are covered for you. You can register any domain name you like (or move an existing one over). Cost for a personal plan is $30/year. 
+  * In most cases, I recommend [Reclaim Hosting](https://reclaimhosting.com/shared-hosting/). It's designed for scholars, has fantastic technical support, and makes it really easy to install your own instance(s) of Wordpress, Omeka, Scalar, mySQL, and many more platforms. You can also start from scratch and host any HTML, CSS, and/or JS that you write (or borrow/adapt) here. Security and back ups are covered for you. You can register any domain name you like (or move an existing one over). Cost for a personal plan is $30/year.  
+  * [Installing Omeka on Reclaim Hosting](https://community.reclaimhosting.com/t/installing-omeka-classic-on-reclaim-hosting/193)  
+     [Installing PlugIns (like Neatline) on Reclaim Hosting)[https://community.reclaimhosting.com/t/uploading-plugins-to-omeka/195]  
+     [ImageMagick: Important Tip for Setting up your own instance of Omeka](https://community.reclaimhosting.com/t/imagemagick-in-omeka-classic/230)  
   * In a few cases you might want to install something that Reclaim doesn't support easily. One example is PostGIS, a spatial relational database software. In that case you would need to get some developer cloud space at a host like [Digital Ocean](https://www.digitalocean.com/).  
   
 2. Use some of the the CoLab's space.  
