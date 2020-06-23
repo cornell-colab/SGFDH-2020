@@ -14,6 +14,7 @@ Have you ever wondered how systems and internet services are organized?  Whether
 
 **Owner/Developer**: The Alliance for Networking Visual Culture (a scholarly association)  
 **Hosting**: Free hosting at scalar.usc.edu OR host at your own domain with Reclaim Hosting (See below).  
+  
 Examples:  
 * [Claude McKay’s Early Poetry (1911-1922): A Digital Collection](https://scalar.lehigh.edu/mckay/index) (Amardeep Singh)  
 * [A Photographic History of Oregon State University](http://photohistory.oregonstate.edu/works/photo-history/index)(Larry Landis with OSU Digital Publishing)  
@@ -23,11 +24,31 @@ This site comprises Ton’s dissertation in the English Dept. at Indiana Univers
 * [How Convenient are our Conveniences?: The demise of underground facilities in Dunedin (New Zealand) 1910s-1980s](https://scalar.usc.edu/works/conveniences/index) (Alison Breese)  
 This site comprises Breese’s entirely digital thesis for her MA at University of Otago. The topic includes public architecture. Look for the ways that Breese makes use of digital illustrations. (Note the timeline and maps seem to be broken the last time I checked.)  
 
+### [Omeka Classic](https://omeka.org/classic/)  
 
+[User Manual / Documentation](https://omeka.org/classic/docs/)
+Tutorial: [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka) by Miriam Posner, *The Programming Historian*  (SKIP the part on signing up for Omeka.net.)  
+Tutorial: [Creating an Omeka Exhibit](https://programminghistorian.org/en/lessons/creating-an-omeka-exhibit) by Miriam Posner & Megan R. Brett, *The Programming Historian*   
 
+•	Designed for managing collections of digital objects (images, audio, video) and their metadata.
+•	Allows you to create displays or digital exhibits of your digital objects.
+**Owner/Developer**: Roy Rosenzweig Center for History and New Media at George Washington University.
+**Hosting**: Each Omeka instance must be hosted somewhere. The Cornell CoLab can host it for you for free on our site OR you can host your instance on your own site and your own domain via Reclaim Hosting (see below). (What I do not recommend is hosting your via Omeka.net, which collects a fee, but does not allow full control of your site and plug-ins.)
 
+### [Wordpress](https://wordpress.org/)
+[User Manual / Documentation]((https://wordpress.org/support/)  
 
+•	An open-source content management system (CMS) used by many different types of websites.  
+
+**Owner / Developer**: Wordpress Foundation
+**Hosting**: Each Wordpress instance must be hosted. You can get free hosting at Wordpress.com, or, for more flexibility and functionality, you can host your own instance on your own domain (see below).  
   
+**Examples**  
+* [De raptu meo](http://chaumpaigne.org/) (Anna Waymack, Cornell Ph.D. candidate in Medieval Studies)
+* [Parthian Sources](https://parthiansources.com/) (Jake Nabel, Cornell SGFDH alum, now prof of Classics at Penn State)  
+* [Angelenos Incarcerated: The LA County Jail Oral History Project](https://angelenosincarcerated.org/) (Joanne Decaro)  
+The platform is Wordpress. There is also a Neatline map embedded.  
+
 
 
 ## Hosting Your Web Site: Static vs. Dynamic  
@@ -57,7 +78,8 @@ If your web site needs a content management system, or a relational database, or
 
 1. Lease your own space. Have full access to the back end. Install whatever you want there.  
   * In most cases, I recommend [Reclaim Hosting](https://reclaimhosting.com/shared-hosting/). It's designed for scholars, has fantastic technical support, and makes it really easy to install your own instance(s) of Wordpress, Omeka, Scalar, mySQL, and many more platforms. You can also start from scratch and host any HTML, CSS, and/or JS that you write (or borrow/adapt) here. Security and back ups are covered for you. You can register any domain name you like (or move an existing one over). Cost for a personal plan is $30/year.  
-  * [Installing Omeka on Reclaim Hosting](https://community.reclaimhosting.com/t/installing-omeka-classic-on-reclaim-hosting/193)  
+  * Some useful support tutorials:  
+  [Installing Omeka on Reclaim Hosting](https://community.reclaimhosting.com/t/installing-omeka-classic-on-reclaim-hosting/193)  
      [Installing PlugIns (like Neatline) on Reclaim Hosting](https://community.reclaimhosting.com/t/uploading-plugins-to-omeka/195)  
      [ImageMagick: Important Tip for Setting up your own instance of Omeka](https://community.reclaimhosting.com/t/imagemagick-in-omeka-classic/230)  
   * In a few cases you might want to install something that Reclaim doesn't support easily. One example is PostGIS, a spatial relational database software. In that case you would need to get some developer cloud space at a host like [Digital Ocean](https://www.digitalocean.com/).  
@@ -76,89 +98,3 @@ Here are examples of digital projects hosted on GitHub:
 
 Here is an example of a GitHub Pages front page for a series of code repositories hosted on GitHub:  
 * [Data and Visualization Workshops at NCSU](https://ncsu-libraries.github.io/data-viz-workshops/)  
-
-
-
-## Web Exhibits
-
-### Omeka
-[Omeka](https://omeka.org/classic/) allows you to manage collections of archival objects (including photos, audio, and video) and their metadata, and to create exhibitions from them.  
-
-* Free and open-source software platform developed at George Mason University for academic, museum, and library users.  
-* Omeka software is free, but Omeka does not provide hosting for free. You can host your own installation, or use CornellColab.net to host an installation.  
-* (Alternatively, you can pay Omeka.net to host an installation for you, but the number of plug-ins you can use will be limited, and it's relatively expensive compared to what you get from a service like Reclaim.)
-* Has a GUI. You can use CSS to extend functionality, or customize the visual style. 
-
-Examples
-* [Showcase of Omeka Projects](https://omeka.org/classic/showcase/)
-
-Examples by Cornell undergrads
-* [Rhetorical Cartography of Early Texas](http://cornellcolab.net/EarlyAmericanMaps/exhibits/show/mappingtexas)  
-* [Saints and Gentiles: Utah's Unconventional Path to Statehood](http://cornellcolab.net/EarlyAmericanMaps/exhibits/show/utah-statehood/introduction)  
-
-Some Good References for Using Omeka
-[Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka) by Miriam Posner, *The Programming Historian*  
-[Creating an Omeka Exhibit](https://programminghistorian.org/en/lessons/creating-an-omeka-exhibit) by Miriam Posner & Megan R. Brett, *The Programming Historian*  
-
-### Wax  
-[Wax](https://minicomp.github.io/wax/about/) is a system for creating web exhibits released just a week ago by Columbia University Library.  
-
-* Unlike Omeka, it is built with static sheets, which means it's lighter weight, easier to preserve, and easier to migrate.  
-* Limited (or no?) GUI, so you need to use the command line (Terminal) to interact with the objects and the exhibit.  
-* But think of all the things you can learn!  
-
-[Examples of Exhibits Built with Wax](https://minicomp.github.io/wiki/wax/examples/)  
-See especially [Style Revolution](https://stylerevolution.github.io/)
-
-[Instructions for Using Wax](https://minicomp.github.io/wiki/wax/)
-
-## Web Publishing
-
-### Scalar
-* [Performing Archive: Curtis + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)
-* [Mapping Jewish LA](http://www.mappingjewishla.org/)
-
-[Scalar User Guide](http://scalar.usc.edu/works/guide2/index)
-
-### Wordpress
-* [Parthian Sources Online](http://parthiansources.com/)
-
-Also see: [Wordpress.com Features](https://en.wordpress.com/features/)
-
-## Maps
-
-### Carto
-
-* Proprietary, commercial platform
-* Can embed on dynamic sites
-* (Embed on static sites? Not sure! TBD soon.)  
-* Can extend functionality with Leaflet.js, CSS, SQL 
-
-Examples  
-* [Mapping Islamophobia](http://mappingislamophobia.org/)
-* [Communal Currents](https://communalcurrents.org/)
-
-Also see: [Carto Builder overview](https://carto.com/builder/)
-
-### Neatline
-[Neatline](http://neatline.org) is a sophisticated plugin for Omeka that allows mapping. It was developed at the University of Virginia, and, like Omeka, is designed for academic users. Check out some of the example projects made with Neatline, and compare with Carto. One difference between the two is that Omeka allows much more freeform annotation, and various ways of embedding collections of objects within the map. Neatline also offers timeline tools.
-
-In order to use Neatline, you must host your own installation of Omeka (or use one installed on the CoLab space). 
-
-* [The Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/) by Cornell Ph.D. candidate John Wyatt Greenlee  
-* [Brooklyn Anthems Atlas](http://cornellcolab.net/BrooklynAnthemsAtlas/neatline/fullscreen/brooklyn-anthems-atlas) by Cornell undergrad Avi Simon  
-* [More Neatline Examples](https://neatline.org/demos/)
-
-### Mapbox
-[Mapbox](http://Mapbox.com)  
-
-### Javascript Languages
-LeafletJS
-D3JS
-
-
-
-
-
-  
-
