@@ -32,11 +32,12 @@ Tutorial: [Creating an Omeka Exhibit](https://programminghistorian.org/en/lesson
 
 •	Designed for managing collections of digital objects (images, audio, video) and their metadata.  
 •	Allows you to create displays or digital exhibits of your digital objects.  
+  
 **Owner/Developer**: Roy Rosenzweig Center for History and New Media at George Washington University.  
 **Hosting**: Each Omeka instance must be hosted somewhere. The Cornell CoLab can host it for you for free on our site OR you can host your instance on your own site and your own domain via Reclaim Hosting (see below). (What I do not recommend is hosting your via Omeka.net, which collects a fee, but does not allow full control of your site and plug-ins.)  
 
 ### [Wordpress](https://wordpress.org/)
-[User Manual / Documentation]((https://wordpress.org/support/)  
+[User Manual / Documentation](https://wordpress.org/support/)  
 
 •	An open-source content management system (CMS) used by many different types of websites.  
 
