@@ -36,6 +36,14 @@ Tutorial: [Creating an Omeka Exhibit](https://programminghistorian.org/en/lesson
 **Owner/Developer**: Roy Rosenzweig Center for History and New Media at George Washington University.  
 **Hosting**: Each Omeka instance must be hosted somewhere. The Cornell CoLab can host it for you for free on our site OR you can host your instance on your own site and your own domain via Reclaim Hosting (see below). (What I do not recommend is hosting your via Omeka.net, which collects a fee, but does not allow full control of your site and plug-ins.)  
 
+**Examples:**  
+* [[Japanese Modernism Across Media](https://ds-omeka.haverford.edu/japanesemodernism/home) (Students of Bryn Mawr & Haverford Colleges
+A collection of 11 exhibits which use different approaches to presenting material. Note the embedded Neatline components in some of them.  
+* [Wearing Gay History](http://wearinggayhistory.com/) (Eric Gonzaba & Collaborators)
+Note that you can browse the entire collection of all the digital items via the “T-shirts” tab, and examine curated exhibits via the “Exhibits” tab.  
+* [Colored Conventions](https://coloredconventions.org/)  
+Hub for collections, exhibits, visualizations, and coordinated information about a large multi-institutional research project on the history of 19th-century Black abolition and civil rights movements.  
+
 ### [Wordpress](https://wordpress.org/)
 [User Manual / Documentation](https://wordpress.org/support/)  
 
