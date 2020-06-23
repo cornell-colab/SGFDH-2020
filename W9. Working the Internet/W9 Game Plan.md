@@ -1,4 +1,6 @@
 # Part I: ["The Stack"](https://prezi.com/view/KyLPNTtqaHORpCP6K2R6/)
+Note that the presentation linked above  works well in Chrome, but not always in Firefox. Your milelage may vary.
+
 Have you ever wondered how systems and internet services are organized?  Whether you interact with a local machine or over the internet your communications flow through layers of dependencies referred to in IT as "the stack".  Why should you care?  It's true that you can use the internet without this nuanced understanding, but online work can benefit from deeper knowledge, especially when you are working through issues where things have gone awry. Michelle will review the general structure of these architectures and allow from questions throughout.  
   
 # Part II: Making Use of the Stack: Web  Publishing & Hosting  
