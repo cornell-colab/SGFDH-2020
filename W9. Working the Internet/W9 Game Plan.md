@@ -26,14 +26,14 @@ This site comprises Breese’s entirely digital thesis for her MA at University 
 
 ### [Omeka Classic](https://omeka.org/classic/)  
 
-[User Manual / Documentation](https://omeka.org/classic/docs/)
+[User Manual / Documentation](https://omeka.org/classic/docs/)  
 Tutorial: [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka) by Miriam Posner, *The Programming Historian*  (SKIP the part on signing up for Omeka.net.)  
 Tutorial: [Creating an Omeka Exhibit](https://programminghistorian.org/en/lessons/creating-an-omeka-exhibit) by Miriam Posner & Megan R. Brett, *The Programming Historian*   
 
-•	Designed for managing collections of digital objects (images, audio, video) and their metadata.
-•	Allows you to create displays or digital exhibits of your digital objects.
-**Owner/Developer**: Roy Rosenzweig Center for History and New Media at George Washington University.
-**Hosting**: Each Omeka instance must be hosted somewhere. The Cornell CoLab can host it for you for free on our site OR you can host your instance on your own site and your own domain via Reclaim Hosting (see below). (What I do not recommend is hosting your via Omeka.net, which collects a fee, but does not allow full control of your site and plug-ins.)
+•	Designed for managing collections of digital objects (images, audio, video) and their metadata.  
+•	Allows you to create displays or digital exhibits of your digital objects.  
+**Owner/Developer**: Roy Rosenzweig Center for History and New Media at George Washington University.  
+**Hosting**: Each Omeka instance must be hosted somewhere. The Cornell CoLab can host it for you for free on our site OR you can host your instance on your own site and your own domain via Reclaim Hosting (see below). (What I do not recommend is hosting your via Omeka.net, which collects a fee, but does not allow full control of your site and plug-ins.)  
 
 ### [Wordpress](https://wordpress.org/)
 [User Manual / Documentation]((https://wordpress.org/support/)  
