@@ -5,6 +5,29 @@ Have you ever wondered how systems and internet services are organized?  Whether
   
 # Part II: Making Use of the Stack: Web  Publishing & Hosting  
   
+## Publishing Platforms
+  
+#### [Scalar](https://scalar.me/anvc/scalar/)
+[User’s Guide/Documentation](https://scalar.usc.edu/works/guide2/index)  
+* Designed for publishing digital scholarly essays and books  
+* Allows you to embed and annotate images, documents, audio, and/or video objects.  
+**Owner/Developer**: The Alliance for Networking Visual Culture (a scholarly association)  
+**Hosting**: Free hosting at scalar.usc.edu OR host at your own domain with Reclaim Hosting (See below).  
+* [Claude McKay’s Early Poetry (1911-1922): A Digital Collection](https://scalar.lehigh.edu/mckay/index) (Amardeep Singh)  
+* [A Photographic History of Oregon State University](http://photohistory.oregonstate.edu/works/photo-history/index)(Larry Landis with OSU Digital Publishing)  
+This site, unlike the other Scalar examples, is primarily image-based. Note the use of tags (how do tags change the user’s experience?) and multiple pathways through the exhibit.  
+* [Shining Lights: Magic Lanterns & The Missionary Movement, 1839-1868](http://scalar.maryborgoton.com/shininglights/index)(Mary Borgo Ton)  
+This site comprises Ton’s dissertation in the English Dept. at Indiana University. The topic includes Film Studies. Look for the ways that Ton leverages the digital format to provide embedded video illustrations and demonstrations -- to produce scholarly output that would not be possible in an analog format.  
+* [How Convenient are our Conveniences?: The demise of underground facilities in Dunedin (New Zealand) 1910s-1980s](https://scalar.usc.edu/works/conveniences/index) (Alison Breese)  
+This site comprises Breese’s entirely digital thesis for her MA at University of Otago. The topic includes public architecture. Look for the ways that Breese makes use of digital illustrations. (Note the timeline and maps seem to be broken the last time I checked.)  
+
+
+
+
+
+  
+
+
 ## Hosting Your Web Site: Static vs. Dynamic  
 
 The components of a basic website are HTML, CSS, & JavaScript (JS). All of these languages operate on the *client side.* A static site is one that uses just these three languages, and is rendered the same each time. A more complicated web site, called a dynamic web site, relies on a content management system (see below), and renders each web page as it is called up by the "client" (your own personal computer). 
@@ -33,7 +56,7 @@ If your web site needs a content management system, or a relational database, or
 1. Lease your own space. Have full access to the back end. Install whatever you want there.  
   * In most cases, I recommend [Reclaim Hosting](https://reclaimhosting.com/shared-hosting/). It's designed for scholars, has fantastic technical support, and makes it really easy to install your own instance(s) of Wordpress, Omeka, Scalar, mySQL, and many more platforms. You can also start from scratch and host any HTML, CSS, and/or JS that you write (or borrow/adapt) here. Security and back ups are covered for you. You can register any domain name you like (or move an existing one over). Cost for a personal plan is $30/year.  
   * [Installing Omeka on Reclaim Hosting](https://community.reclaimhosting.com/t/installing-omeka-classic-on-reclaim-hosting/193)  
-     [Installing PlugIns (like Neatline) on Reclaim Hosting)[https://community.reclaimhosting.com/t/uploading-plugins-to-omeka/195]  
+     [Installing PlugIns (like Neatline) on Reclaim Hosting](https://community.reclaimhosting.com/t/uploading-plugins-to-omeka/195)  
      [ImageMagick: Important Tip for Setting up your own instance of Omeka](https://community.reclaimhosting.com/t/imagemagick-in-omeka-classic/230)  
   * In a few cases you might want to install something that Reclaim doesn't support easily. One example is PostGIS, a spatial relational database software. In that case you would need to get some developer cloud space at a host like [Digital Ocean](https://www.digitalocean.com/).  
   
