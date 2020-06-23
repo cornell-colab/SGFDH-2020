@@ -7,12 +7,14 @@ Have you ever wondered how systems and internet services are organized?  Whether
   
 ## Publishing Platforms
   
-#### [Scalar](https://scalar.me/anvc/scalar/)
+### [Scalar](https://scalar.me/anvc/scalar/)
 [User’s Guide/Documentation](https://scalar.usc.edu/works/guide2/index)  
 * Designed for publishing digital scholarly essays and books  
 * Allows you to embed and annotate images, documents, audio, and/or video objects.  
+
 **Owner/Developer**: The Alliance for Networking Visual Culture (a scholarly association)  
 **Hosting**: Free hosting at scalar.usc.edu OR host at your own domain with Reclaim Hosting (See below).  
+Examples:  
 * [Claude McKay’s Early Poetry (1911-1922): A Digital Collection](https://scalar.lehigh.edu/mckay/index) (Amardeep Singh)  
 * [A Photographic History of Oregon State University](http://photohistory.oregonstate.edu/works/photo-history/index)(Larry Landis with OSU Digital Publishing)  
 This site, unlike the other Scalar examples, is primarily image-based. Note the use of tags (how do tags change the user’s experience?) and multiple pathways through the exhibit.  
